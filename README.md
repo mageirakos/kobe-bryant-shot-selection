@@ -5,10 +5,10 @@ The data is taken from kaggle's Kobe Bryant Shot Selection competition : https:/
 1)Data Preprocessing   
 2)Creating some new features  
 3)Exploratory Data Analysis answering the questions:  
-  -What is Kobe's FG% and how many shots did he take?  
-  -Can we plot Kobe's shot attempts and accuracy as the game progresses?  
-  -Can we visualize based on location if distance from the basket, court zone, shot type etc. makes a difference in shot accuracy?   
-  -Can we plot out Kobe's accuracy based on the different features in our dataset?  
+    -What is Kobe's FG% and how many shots did he take?  
+    -Can we plot Kobe's shot attempts and accuracy as the game progresses?  
+    -Can we visualize based on location if distance from the basket, court zone, shot type etc. makes a difference in shot accuracy?   
+    -Can we plot out Kobe's accuracy based on the different features in our dataset?  
   
 ## To be done
 1) Better visualizations  
