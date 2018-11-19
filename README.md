@@ -1,19 +1,5 @@
 # Kobe-Bryant-Shot-Selection
 The data is taken from kaggle's Kobe Bryant Shot Selection competition : https://www.kaggle.com/c/kobe-bryant-shot-selection  
- 
-## Version 0.1
--Data Preprocessing   
--Creating some new features  
--Exploratory Data Analysis answering the questions:  
-    1)What is Kobe's FG% and how many shots did he take?  
-    2)Can we plot Kobe's shot attempts and accuracy as the game progresses?  
-    3)Can we visualize based on location if distance from the basket, court zone, shot type etc. makes a difference in shot accuracy?   
-    4)Can we plot out Kobe's accuracy based on the different features in our dataset?  
-  
-## To be done
-1) Better visualizations  
-2) Answer more questions  
-3) Train models that avoid "leakage"  
 
 ## About
 Kobe Bryant marked his retirement from the NBA by scoring 60 points in his final game as a Los Angeles Laker on Wednesday, April 12,    2016. Drafted into the NBA at the age of 17, Kobe earned the sport’s highest accolades throughout his long career.  
@@ -52,3 +38,16 @@ matchup
 opponent  
 shot_id  
    
+## Version 0.1
+-Data Preprocessing   
+-Creating some new features  
+-Exploratory Data Analysis answering the questions:  
+    1)What is Kobe's FG% and how many shots did he take?  
+    2)Can we plot Kobe's shot attempts and accuracy as the game progresses?  
+    3)Can we visualize based on location if distance from the basket, court zone, shot type etc. makes a difference in shot accuracy?   
+    4)Can we plot out Kobe's accuracy based on the different features in our dataset?  
+  
+## To be done
+1) Better visualizations  
+2) Answer more questions  
+3) Train models that avoid "leakage"  
