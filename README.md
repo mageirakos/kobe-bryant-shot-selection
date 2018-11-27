@@ -1,5 +1,6 @@
 # Kobe-Bryant-Shot-Selection
-The data is taken from kaggle's Kobe Bryant Shot Selection competition : https://www.kaggle.com/c/kobe-bryant-shot-selection  
+The data is taken from kaggle's Kobe Bryant Shot Selection competition :    
+https://www.kaggle.com/c/kobe-bryant-shot-selection  
 
 ## Helpful kaggle kernels
 I would like to credit the following kernels that helped me alot with my analysis:
@@ -49,10 +50,10 @@ shot_id
 -Feature Selection   
 -Model Evaluation using KFold cross-validation     
 -Exploratory Data Analysis answering the questions:       
-    1)What is Kobe's FG% and how many shots did he take?  
-    2)Can we plot Kobe's shot attempts and accuracy as the game progresses?  
-    3)Can we visualize based on location if distance from the basket, court zone, shot type etc. makes a difference in shot accuracy?   
-    4)Can we plot out Kobe's accuracy based on the different features in our dataset?     
+    1) What is Kobe's FG% and how many shots did he take?  
+    2) Can we plot Kobe's shot attempts and accuracy as the game progresses?  
+    3) Can we visualize based on location if distance from the basket, court zone, shot type etc. makes a difference in shot accuracy?   
+    4) Can we plot out Kobe's accuracy based on the different features in our dataset?     
 -Trained my first models and evaluated them( Logistic Regression, KNN Classifier, Decision Trees, Random Forests )   
   
 ## To be done
