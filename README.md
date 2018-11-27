@@ -1,6 +1,12 @@
 # Kobe-Bryant-Shot-Selection
 The data is taken from kaggle's Kobe Bryant Shot Selection competition : https://www.kaggle.com/c/kobe-bryant-shot-selection  
 
+## Helpfull kaggle kernels
+I would like to credit the following kernels that helped me alot with my analysis:
+⋅⋅*  https://www.kaggle.com/khozzy/kobe-bryant-shot-selection/kobe-shots-show-me-your-best-model
+⋅⋅*  https://www.kaggle.com/selfishgene/kobe-bryant-shot-selection/psychology-of-a-professional-athlete  
+⋅⋅*  https://www.kaggle.com/apapiu/kobe-bryant-shot-selection/exploring-kobe-s-shots
+
 ## About
 Kobe Bryant marked his retirement from the NBA by scoring 60 points in his final game as a Los Angeles Laker on Wednesday, April 12,    2016. Drafted into the NBA at the age of 17, Kobe earned the sport’s highest accolades throughout his long career.  
   
