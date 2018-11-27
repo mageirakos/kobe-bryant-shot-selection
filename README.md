@@ -1,7 +1,7 @@
 # Kobe-Bryant-Shot-Selection
 The data is taken from kaggle's Kobe Bryant Shot Selection competition : https://www.kaggle.com/c/kobe-bryant-shot-selection  
 
-## Helpfull kaggle kernels
+## Helpful kaggle kernels
 I would like to credit the following kernels that helped me alot with my analysis:
   *  https://www.kaggle.com/khozzy/kobe-bryant-shot-selection/kobe-shots-show-me-your-best-model
   *  https://www.kaggle.com/selfishgene/kobe-bryant-shot-selection/psychology-of-a-professional-athlete  
