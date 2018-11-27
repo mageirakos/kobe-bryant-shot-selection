@@ -54,6 +54,6 @@ shot_id
     4)Can we plot out Kobe's accuracy based on the different features in our dataset?  
   
 ## To be done
-1) Better visualizations  
-2) Answer more questions  
-3) Train models that avoid "leakage"  
+  * Better visualizations  
+  * Answer more questions  
+  * Train models that avoid "leakage"  
