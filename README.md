@@ -57,7 +57,7 @@ shot_id
 -Trained my first models and evaluated them( Logistic Regression, KNN Classifier, Decision Trees, Random Forests )   
   
 ## To be done
-  * Learn and use Reccursive Feature Selection   
+  * Learn and use Recursive Feature Selection   
   * Tune Hyperparameters    
   * Improve the documentation   
   * Submit my results to kaggle to get ranked   
