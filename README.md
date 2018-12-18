@@ -46,16 +46,16 @@ opponent
 shot_id  
    
 ## Version 1.0
--Data Preprocessing    
--Feature Selection   
--Model Evaluation using KFold cross-validation     
--Exploratory Data Analysis answering the questions:       
-    1) What is Kobe's FG% and how many shots did he take?  
-    2) Can we plot Kobe's shot attempts and accuracy as the game progresses?  
-    3) Can we visualize based on location if distance from the basket, court zone, shot type etc. makes a difference in shot accuracy?   
-    4) Can we plot out Kobe's accuracy based on the different features in our dataset?     
--Trained models and evaluated them( Logistic Regression, KNN Classifier, Decision Trees, Random Forests, ensembles ... )   
--Tuned the hyperparameters of the most promising models to improve my results
+1)Data Preprocessing    
+2)Feature Selection   
+3)Model Evaluation using KFold cross-validation     
+4)Exploratory Data Analysis answering the questions:       
+  - What is Kobe's FG% and how many shots did he take?  
+  - Can we plot Kobe's shot attempts and accuracy as the game progresses?  
+  - Can we visualize based on location if distance from the basket, court zone, shot type etc. makes a difference in shot accuracy?   
+  - Can we plot out Kobe's accuracy based on the different features in our dataset?     
+5)Trained models and evaluated them( Logistic Regression, KNN Classifier, Decision Trees, Random Forests, ensembles ... )   
+6)Tuned the hyperparameters of the most promising models to improve my results
   
 ## To be done
   * Learn and use Recursive Feature Selection     
