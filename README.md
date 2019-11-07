@@ -57,10 +57,4 @@ shot_id
   - Can we visualize based on location if distance from the basket, court zone, shot type etc. makes a difference in shot accuracy?   
   - Can we plot out Kobe's accuracy based on the different features in our dataset?     
 
-  
-## To be done
-  * Learn and use Recursive Feature Selection     
-  * Improve the documentation   
-  * Learn and use XGBoost and more about the methods used in the other kernels I mention above to improve my own models   
-  * Try and create maybe new features or select them better to improve my results?
-  
+
